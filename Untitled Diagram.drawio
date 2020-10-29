@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T02:27:44.636Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="A35H7sWdt9LtcNnfqi0C" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T02:30:40.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="iZWFygi7TTH_8ZmXlz7R" version="13.8.6" type="github">
   <diagram id="omvWzpszIbfOMrYEtXJd" name="Page-1">
     <mxGraphModel dx="1346" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -137,6 +137,18 @@
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-76" value="&lt;font color=&quot;#ff0008&quot;&gt;&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;ADANVANCE&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="484.05" y="-280" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-79" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/maternity-and-pregnancy-2/512/167_Fingerprint_identity_recognition_scan_scanner_scanning-128.png;fillColor=#F2FFFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="840" y="160" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-80" value="" style="image;html=1;image=img/lib/clip_art/networking/Ip_Camera_128x128.png;fillColor=#F2FFFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="840" y="298" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L0Wl1w1Pw-v7TW8PgjGB-51" target="L0Wl1w1Pw-v7TW8PgjGB-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L0Wl1w1Pw-v7TW8PgjGB-49" target="L0Wl1w1Pw-v7TW8PgjGB-79">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

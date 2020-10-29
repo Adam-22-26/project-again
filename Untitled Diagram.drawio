@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T00:00:55.121Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="wWKOrYwX9XI-3YMBtzd_" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T00:19:19.611Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="SngNwgNEQ8YkDkUFJ4Pd" version="13.8.6" type="github">
   <diagram id="omvWzpszIbfOMrYEtXJd" name="Page-1">
-    <mxGraphModel dx="1108" dy="1535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="1346" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,7 +26,7 @@
           <mxGeometry x="324.97" y="-377.5" width="74.38" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-12" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginLeft=67;strokeColor=#36393d;gradientColor=#ffffff;fillColor=#F2FFFF;" vertex="1" parent="1">
-          <mxGeometry x="215" y="100" width="680" height="458" as="geometry" />
+          <mxGeometry x="40" y="40" width="680" height="466" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-13" value="Tab 1" style="strokeColor=#006EAF;fillColor=#1ba1e2;strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.rrect;rSize=0;fontSize=17;fontColor=#ffffff;" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-12">
           <mxGeometry width="60" height="25" relative="1" as="geometry">
@@ -76,13 +76,43 @@
           <mxGeometry x="250" y="230" width="350" height="18" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-44" value="Finish" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#1CA5B8;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-12">
-          <mxGeometry x="520" y="350" width="80" height="40" as="geometry" />
+          <mxGeometry x="520" y="338" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/internet-security-flat-2/32/Internet_Security_Finger_print_identity_crime_fingerprint-128.png;fillColor=#F2FFFF;gradientColor=#ffffff;" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-12">
-          <mxGeometry x="125" y="325" width="88" height="88" as="geometry" />
+          <mxGeometry x="250" y="300" width="78" height="78" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-51" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.camera;fillColor=#F2FFFF;gradientColor=#ffffff;" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-12">
-          <mxGeometry x="230" y="340" width="80" height="65" as="geometry" />
+          <mxGeometry x="375" y="313" width="80" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-53" value="Enroll FP" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-12">
+          <mxGeometry x="259" y="380" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-54" value="Picture" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-12">
+          <mxGeometry x="390" y="380" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-56" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/humano2/128x128/apps/gnome-help.png;fillColor=#F2FFFF;gradientColor=#ffffff;" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-12">
+          <mxGeometry x="620" y="420" width="26" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-61" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-12">
+          <mxGeometry x="264.62" y="400" width="48.75" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-63" value="" style="html=1;aspect=fixed;strokeColor=none;shadow=0;align=center;verticalAlign=top;fillColor=#2D9C5E;shape=mxgraph.gcp2.check" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-12">
+          <mxGeometry x="391.25" y="400" width="48.75" height="39" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-65" value="&lt;font style=&quot;font-size: 27px&quot; color=&quot;#007fff&quot;&gt;&lt;b&gt;ENROLL&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-12">
+          <mxGeometry x="250" y="30.89" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L0Wl1w1Pw-v7TW8PgjGB-57" target="L0Wl1w1Pw-v7TW8PgjGB-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="528" />
+              <mxPoint x="670" y="528" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-57" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&amp;nbsp;If the user ID exists, please select fingerprint on the picture which you want to register (The green point will on the finger which&lt;br&gt;you have to choose) and press [OK] key. The interface shows “Press finger”:&amp;nbsp;&lt;br&gt;If you already entered Finger Print it will prompt you using the check icon.&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2FFFF;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="550" width="860" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

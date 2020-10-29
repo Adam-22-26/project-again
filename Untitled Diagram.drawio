@@ -1,29 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T00:53:17.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="FXyJqL-bLRMEz1eGQXxr" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T02:13:09.359Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="dKwG5oUEkGcF20e2VkRJ" version="13.8.6" type="github">
   <diagram id="omvWzpszIbfOMrYEtXJd" name="Page-1">
     <mxGraphModel dx="1346" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-2" value="Window Title" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.window;align=left;verticalAlign=top;spacingLeft=8;strokeColor2=#008cff;strokeColor3=#c4c4c4;fontColor=#666666;mainText=;fontSize=17;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="280" y="-615" width="550" height="380" as="geometry" />
+          <mxGeometry x="80" y="-620" width="550" height="380" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-3" value="" style="image;html=1;image=img/lib/clip_art/people/Suit_Man_Blue_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="510" y="-560" width="90" height="90" as="geometry" />
+          <mxGeometry x="310" y="-565" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-4" value="" style="image;html=1;image=img/lib/clip_art/general/Gear_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="702" y="-360" width="88.1" height="80" as="geometry" />
+          <mxGeometry x="502" y="-365" width="88.1" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-5" value="" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="510" y="-370" width="90" height="80" as="geometry" />
+          <mxGeometry x="310" y="-375" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database.svg;" vertex="1" parent="1">
-          <mxGeometry x="690" y="-560" width="108.1" height="80" as="geometry" />
+          <mxGeometry x="490" y="-565" width="108.1" height="80" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-8" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/user_accounts.svg;" vertex="1" parent="1">
-          <mxGeometry x="320" y="-560" width="84.31" height="81.78" as="geometry" />
+          <mxGeometry x="120" y="-565" width="84.31" height="81.78" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-9" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/workstation_client.svg;" vertex="1" parent="1">
-          <mxGeometry x="324.97" y="-377.5" width="74.38" height="87.5" as="geometry" />
+          <mxGeometry x="124.97000000000003" y="-382.5" width="74.38" height="87.5" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-12" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginLeft=67;strokeColor=#36393d;gradientColor=#ffffff;fillColor=#F2FFFF;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="680" height="466" as="geometry" />

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T02:35:26.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="w8NCiv-mNmAH_qXIcmuU" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T02:36:59.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="WrHl6_TfJripv5x5tOet" version="13.8.6" type="github">
   <diagram id="omvWzpszIbfOMrYEtXJd" name="Page-1">
     <mxGraphModel dx="1346" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-57" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&amp;nbsp;If the user ID exists, please select fingerprint on the picture which you want to register (The green point will on the finger which&lt;br&gt;you have to choose) and press [OK] key. The interface shows “Press finger”:&amp;nbsp;&lt;br&gt;If you already entered Finger Print it will prompt you using the check icon.&lt;br&gt;FINISH - your profile will be added to the system.&lt;br&gt;You can also modify your profile but you need administrator permission.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2FFFF;gradientColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-57" value="&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;b&gt;&amp;nbsp;If the user ID exists, please select a fingerprint on the picture which you want to register (Touch the fingerprint icon to proceed.&amp;nbsp;The interface shows “Press finger”:&amp;nbsp;&lt;br&gt;If you already entered Finger Print it will prompt you using the check icon.&lt;br&gt;FINISH - your profile will be added to the system.&lt;br&gt;You can also modify your profile but you need administrator permission.&lt;br&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F2FFFF;gradientColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="170" y="550" width="860" height="130" as="geometry" />
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-67" value="&lt;span style=&quot;font-size: 17px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0008&quot;&gt;DATA&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">

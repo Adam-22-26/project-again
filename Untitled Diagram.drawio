@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-29T02:36:59.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="WrHl6_TfJripv5x5tOet" version="13.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-29T02:39:22.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="JlcCEYq1s5eAdCdwV8JR" version="13.8.6" type="github">
   <diagram id="omvWzpszIbfOMrYEtXJd" name="Page-1">
-    <mxGraphModel dx="1346" dy="1681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3140" dy="2790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,6 +149,22 @@
         </mxCell>
         <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="L0Wl1w1Pw-v7TW8PgjGB-49" target="L0Wl1w1Pw-v7TW8PgjGB-79">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-83" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginLeft=67;strokeColor=#666666;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="27.159999999999997" y="870" width="602.84" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-87" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.leftButton;rSize=5;strokeColor=#008cff;fillColor=#008cff;resizeHeight=1;movable=0;deletable=0;" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-83">
+          <mxGeometry width="7" height="329.99999999999994" relative="1" as="geometry">
+            <mxPoint x="60" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-88" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.marginRect2;rectMarginLeft=67;strokeColor=#666666;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="27.159999999999997" y="1275" width="602.84" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="L0Wl1w1Pw-v7TW8PgjGB-89" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.leftButton;rSize=5;strokeColor=#008cff;fillColor=#008cff;resizeHeight=1;movable=0;deletable=0;" vertex="1" parent="L0Wl1w1Pw-v7TW8PgjGB-88">
+          <mxGeometry width="7" height="329.99999999999994" relative="1" as="geometry">
+            <mxPoint x="60" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
